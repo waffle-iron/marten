@@ -1,4 +1,5 @@
 {<img alt='Stories in Ready' src='https://badge.waffle.io/mikeoleynik/marten.png?label=ready&title=Ready' />}[https://waffle.io/mikeoleynik/marten]
+{<img alt='Stories in Ready' src='https://badge.waffle.io/mikeoleynik/marten.png?label=ready&title=Ready' />}[https://waffle.io/mikeoleynik/marten]
 == README
 
 This README would normally document whatever steps are necessary to get the
